@@ -1,6 +1,4 @@
-package appfuncion1;
-
-import ejercicio.Coche;
+package ejercicio;
 
 public class main {
     
